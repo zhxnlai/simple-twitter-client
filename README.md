@@ -18,8 +18,8 @@ and view a collection of images from the tweets you saved
 Video
 ---
 Links to a few demo videos
-- [Video 1](https://www.dropbox.com/s/3t42j9gvssp3ntq/video.mov?dl=1)
-- [Video 2](https://www.dropbox.com/s/8f5istg081fyxiq/videoDelete.mov?dl=1)
+- [Video 1](https://www.dropbox.com/s/3t42j9gvssp3ntq/video.mov?dl=0)
+- [Video 2](https://www.dropbox.com/s/8f5istg081fyxiq/videoDelete.mov?dl=0)
 
 License
 ---

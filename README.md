@@ -27,18 +27,19 @@ Features
 - Display associated image if it has one
 - Search triggered after timeout
 - Support paging for search results
+- Uses [ZLBalancedFlowLayout](https://github.com/zhxnlai/ZLBalancedFlowLayout) and [ReactiveUI](https://github.com/zhxnlai/ReactiveUI)
 
 Bugs
 ---
-Search interface -> url -> webview
-	should reset the cell before re-rendering
+- Search interface -> url -> webview
+- Should reset the cell before re-rendering
 
-improvement
+Improvement
 ---
-Right now the cell can be configured using both Core Data Object and JSON
-	(not very good abstration, code reuse)
-Reactive style?
-Saving a tweet should trigger some feedback
+- Right now the cell can be configured using both Core Data Object and JSON
+	- (not very good abstration, code reuse)
+- Reactive style?
+- Saving a tweet should trigger some feedback
 
 License
 ---
